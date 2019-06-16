@@ -2,11 +2,12 @@
 <img src="https://i.imgur.com/FGp7IlS.jpg" title="source: imgur.com" height="300" />
 </p>
 <br>
+<h3 align="center">Front End Web de um clone do feed do Instagram</h3>
+<br>
 <p  align="center">
 <img src="https://i.imgur.com/jRmIcGs.png" title="source: imgur.com" />
 </p>
 <br>
-<h3>Backend de um clone do feed do Instagram</h3>
 
 <p>Foi utilizado:</p>
 
@@ -19,7 +20,8 @@
 
     git clone https://github.com/rodolfo-rosa-silva/instagram-clone-frontend-web
     cd instagram-clone-frontend-web
-    yarn start ou npm run start
+    yarn
+    yarn start
 
 <br>
 
